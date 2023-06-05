@@ -1,2 +1,2 @@
-# Datastructure-and-Algorithm-Visualizer
-This project is completely developed using plain HTML, CSS and JS.
+# Algorithm-Visualizer
+This is an algorithm visualizer - built with bootstrap, html-css-js
