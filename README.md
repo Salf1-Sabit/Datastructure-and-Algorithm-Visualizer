@@ -1,2 +1,2 @@
-# Algorithm-Visualizer
-This is an algorithm visualizer - built with bootstrap, html-css-js
+# Live link
+![See the live version]{https://salf1-sabit.github.io/Datastructure-and-Algorithm-Visualizer/}
